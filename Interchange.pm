@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '0.06';
+$VERSION = '0.07';
 
 1;
 
@@ -46,7 +46,7 @@ Business::UPS
 
 IO::Scalar
 
-SQL::Statement 0.1021
+SQL::Statement::Hash
 
 Storable
 
