@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '0.04';
+$VERSION = '0.05';
 
 1;
 
@@ -16,25 +16,47 @@ C<perl -MCPAN -e 'install Bundle::Interchange'>
 
 =head1 CONTENTS
 
-MD5
+Digest::MD5
 
 MIME::Base64
 
+URI::URL
+
+HTML::Tagset
+
 Bundle::LWP
+
+IO::stringy
+
+Parse::RecDescent
+
+OLE::Storage_Lite
 
 Term::ReadKey
 
 Term::ReadLine::Perl
 
-Business::UPS
-
-SQL::Statement
-
-Storable
+Image::Size
 
 DBI
 
 Safe::Hole
+
+Tie::ShadowHash
+
+Business::UPS
+
+IO::Stringy
+
+SQL::Statement 0.1021
+
+Storable
+
+Bundle::LWP
+
+Spreadsheet::ParseExcel
+
+Spreadsheet::WriteExcel
 
 =head1 DESCRIPTION
 
