@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '0.05';
+$VERSION = '0.06';
 
 1;
 
@@ -26,8 +26,6 @@ HTML::Tagset
 
 Bundle::LWP
 
-IO::stringy
-
 Parse::RecDescent
 
 OLE::Storage_Lite
@@ -46,7 +44,7 @@ Tie::ShadowHash
 
 Business::UPS
 
-IO::Stringy
+IO::Scalar
 
 SQL::Statement 0.1021
 
