@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 1;
 
@@ -33,6 +33,8 @@ SQL::Statement
 Storable
 
 DBI
+
+Safe::Hole
 
 =head1 DESCRIPTION
 
