@@ -1,3 +1,6 @@
 Interchange.pm
 MANIFEST
 MANIFEST.SKIP
+Makefile.PL
+README
+META.yml                                 Module meta-data (added by MakeMaker)
