@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -46,11 +46,11 @@ Safe::Hole
 
 Tie::ShadowHash
 
+Set::Crontab
+
 IO::Scalar
 
 Storable
-
-Business::UPS
 
 Spreadsheet::ParseExcel
 
