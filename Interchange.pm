@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -19,6 +19,8 @@ C<perl -MCPAN -e 'install Bundle::Interchange'>
 Digest::MD5
 
 MIME::Base64
+
+MIME::Lite
 
 URI::URL
 
