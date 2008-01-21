@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '1.03';
+$VERSION = '1.04';
 
 1;
 
@@ -27,6 +27,8 @@ MIME::Lite
 URI::URL
 
 HTML::Tagset
+
+HTML::Entities
 
 Bundle::LWP
 
