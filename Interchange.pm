@@ -1,6 +1,6 @@
 package Bundle::Interchange;
 
-$VERSION = '1.04';
+$VERSION = '1.05';
 
 1;
 
@@ -61,6 +61,8 @@ Storable
 Spreadsheet::ParseExcel
 
 Spreadsheet::WriteExcel
+
+Net::IP::Match::Regexp
 
 =head1 DESCRIPTION
 
