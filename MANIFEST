@@ -3,4 +3,5 @@ MANIFEST
 MANIFEST.SKIP
 Makefile.PL
 README
+Changes
 META.yml                                 Module meta-data (added by MakeMaker)
